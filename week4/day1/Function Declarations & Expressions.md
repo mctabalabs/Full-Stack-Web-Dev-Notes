@@ -1,5 +1,7 @@
 # Function Declarations & Expressions
 
+> **AI boundaries this week:** 75% manual / 25% AI. Habit: *Build first, enhance with AI -- the manual version must work before AI touches it.* See [ai.md](../ai.md).
+
 ## Learning Objectives
 By the end of this lesson, you will be able to:
 - Define functions using both declarations and function expressions.
