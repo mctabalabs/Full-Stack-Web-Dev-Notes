@@ -1,5 +1,7 @@
 # React Foundations
 
+> **AI boundaries this week:** 60% manual / 40% AI. Habit: *New framework, manual first -- the first 3-5 components by hand before AI scaffolds anything.* See [ai.md](../ai.md).
+
 ## Learning Objectives
 By the end of this lesson, you will be able to:
 - Explain what React is and why developers choose it over plain JavaScript.
