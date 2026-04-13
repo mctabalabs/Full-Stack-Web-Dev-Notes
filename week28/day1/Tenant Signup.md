@@ -1,5 +1,7 @@
 # Week 28, Day 1: Tenant Signup
 
+> **AI boundaries this week:** 40% manual / 60% AI. Habit: *AI cannot keep tenants safe -- every isolation-related line is hand-written.* See [ai.md](../ai.md).
+
 By the end of today, a new user can sign up through the Next.js dashboard, the system creates a tenant for them, wires them up as the owner, and lands them on an empty dashboard they can start configuring.
 
 **Estimated time:** 4-5 hours.
