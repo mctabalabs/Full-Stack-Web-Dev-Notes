@@ -1,5 +1,7 @@
 # Working with APIs Properly
 
+> **AI boundaries this week:** 50% manual / 50% AI. Habit: *AI reads docs, you make decisions -- the 50/50 line holds only if every architectural choice stays yours.* See [ai.md](../ai.md).
+
 ## Learning Goals
 
 By the end of this topic, learners should be able to:
