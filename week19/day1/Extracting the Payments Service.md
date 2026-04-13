@@ -1,5 +1,7 @@
 # Week 19, Day 1: Extracting the Payments Service
 
+> **AI boundaries this week:** 35% manual / 65% AI. Habit: *You design the API, AI fills it in.* See [ai.md](../ai.md).
+
 By the end of today, the payments code scattered across your Express server is a self-contained, installable Node package with a clean API, its own README, its own tests, and zero knowledge of the shop. Another developer could drop it into an unrelated project and take payments in an hour.
 
 This week's deliverable is the "reusable Payments Service module" the syllabus promises. You are not building new functionality -- you are turning existing functionality into something portable.
