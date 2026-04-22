@@ -147,6 +147,8 @@ MPESA_CALLBACK_URL=https://your-ngrok-url.ngrok.io/api/mpesa/callback
 APP_URL=http://localhost:3000
 ```
 
+> **Passkey for sandbox shortcode 174379:** The value for `MPESA_PASSKEY` is `bfb279f9aa9bdbcf158e97dd71a467cd2e0c893059b10f78e6b72ada1ed2c919`. You can find it on the Daraja sandbox dashboard at developer.safaricom.co.ke under the "Simulate" tab for Lipa Na M-Pesa Online. If you leave it as `your_passkey_here`, your STK push requests will fail with a 400 error because the server cannot generate a valid auth password without the correct passkey.
+
 Environment variables are values that change between environments. Your M-Pesa credentials on your laptop are different from the ones on a production server. By putting them in `.env`, you keep one set of code that works everywhere -- you just swap the `.env` file.
 
 The shortcode `174379` is Safaricom's sandbox test shortcode. You will get the passkey from your Daraja sandbox dashboard at developer.safaricom.co.ke.
